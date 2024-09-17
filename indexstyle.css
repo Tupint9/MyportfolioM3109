@@ -1,0 +1,158 @@
+body{
+	background-color: white;
+}
+
+
+.container{
+	background-color: rebeccapurple;
+	border: 2px solid black;
+	width: 1200px;
+	height: 2250px;
+	margin-left: 350px;
+	margin-right:400px ;
+	margin-top: 10px;t
+	
+
+
+}
+.container2{
+	background-color: rebeccapurple;
+	border: 2px solid black;
+	width: 1200px;
+	height: 1250px;
+	margin-left: 350px;
+	margin-right:400px ;
+	margin-top: 10px;t
+
+}
+
+.container3{
+	background-color: rebeccapurple;
+	border: 2px solid black;
+	width: 1200px;
+	height: 1050px;
+	margin-left: 350px;
+	margin-right:400px ;
+	margin-top: 10px;t
+
+}
+.container4{
+	background-color: rebeccapurple;
+	border: 2px solid black;
+	width: 1200px;
+	height: 1550px;
+	margin-left: 350px;
+	margin-right:400px ;
+	margin-top: 10px;t
+}														
+
+.head-line{
+	text-align: left;
+	font-size: 40px;
+	border: 3px solid black;
+	margin-right: 300px;g
+	margin-left: 300px;
+	background-color: lightcyan;
+	color: black;
+}
+.title{
+	color: white;
+	font-size: 25px;
+}
+.textbox{
+	width:600px ;
+	height:800px ;
+	margin-right: ;
+	margin-left:600px ;
+	background-color: lightcyan;
+}
+.textbox2{
+	width:600px ;
+	height:170px ;
+	margin-right: ;
+	margin-left: 300px;
+	margin-top: 100px;
+	background-color: lightcyan;
+	text-align: left;
+}
+.textbox3{
+	width:600px ;
+	height:170px ;
+	margin-left: 300px;
+	margin-top: 130px;
+	background-color: lightcyan;
+	text-align: left;
+	font-size: 24px;
+}
+.textbox4{
+	width:400px ;
+	height:70px ;
+	margin-left:400px;
+	margin-top: 120px;
+	background-color: lightcyan;
+	text-align: center;
+	font-size: 14px;
+}
+.image2 img{ 
+	width: 47%;
+	height: 800px;
+	float: left;
+	margin-left: 10px;
+
+}
+.image3 img{ 
+	width: 250px;
+	height: 200px;
+	float: left;
+	margin-right: ;
+}
+.image4{ 
+	width: 250px;
+	height: 200px;
+	float: left;
+	margin-left:625px ;
+	margin-top: -170px;
+}
+.image5 img{ 
+	width: 250px;
+	height: 200px;
+	float: left;
+	margin-right:1500px ;
+	margin-top: 50px;
+}
+.image6 img{ 
+	width: 450px;
+	height: 300px;
+	float:left ;
+	margin-right:50px ;
+	margin-left: 80px;
+	margin-top: 55px;
+}
+ul {
+	list-style: none;
+	background: lightcyan;
+	text-align: center;
+}
+ul li{
+	display: inline-block;
+	position: relative;
+}
+ul li a {
+	display: block;
+	padding: 20px 25px;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	font-size: 25px;
+}
+il li a:hover {
+	color: aquamarine;
+}
+.head-line2{
+	text-align: left;
+	font-size: 40px;
+	border: 3px solid black;
+	margin-right: 300px;g
+	margin-left: 300px;
+	background-color: lightcyan;
+	color: black;
